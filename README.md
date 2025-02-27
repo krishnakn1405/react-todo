@@ -1,3 +1,14 @@
+# React Todo App
+
+Frontend: React
+Backend: Api Gateway(Api management), Lambda Function(Python), DynamoDB(Database), Cognito(Authentication)
+
+The frontend of this project is built with React, and the backend utilizes AWS managed functions. API calls are used for all communication between these components.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
